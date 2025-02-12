@@ -1,7 +1,7 @@
 # Structural determinants of soft memory in recurrent biological networks
 Code to reproduce the simulations and figures in the following paper:
 
-``Structural determinants of soft memory in recurrent biological networks'', by M. Sol Vidal-Saez and Jordi Garcia-Ojalvo. 
+``Structural determinants of soft memory in recurrent biological networks'', by **M. Sol Vidal-Saez** and Jordi Garcia-Ojalvo. 
 
 We studied the temporal information processing capabilities of the gene regulatory network (GRN) of the bacterium *Escherichia coli* within the reservoir computing framework. We focused on the dynamics of the recurrent core, due to its relevance in temporal information processing. We explored whether the dynamical regime of the reservoir affects its memory capacity. We also asked whether the local topology of GRNs contributes to their memory-encoding capabilities. See paper for more details.
 ## Organization of the codes 
